@@ -1,0 +1,1 @@
+the np hardness results are collected in section  NUMBER  followed by the building blocks for the tractability result  existence of majority polymorphisms  section  NUMBER   and connections with optimization in perfect graphs  section  NUMBER  

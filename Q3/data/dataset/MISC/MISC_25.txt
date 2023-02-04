@@ -1,0 +1,1 @@
+A finite bound on the total expected square loss is particularly interesting:   It implies convergence of the predictive to the true probabilities with probability one

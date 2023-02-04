@@ -1,0 +1,1 @@
+QAST at the end picks up the state with the lowest energy in  SYMBOL  states as the final solution

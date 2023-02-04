@@ -1,0 +1,1 @@
+ It is eg  SYMBOL  if we additionally assume that the error is monotonically decreasing, which is not necessarily true in general

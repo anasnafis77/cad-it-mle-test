@@ -1,0 +1,1 @@
+ A recent analysis has shown that the local update equations of BP may be interpreted as the zero order term of an expansion in ``cavity connected correlations''

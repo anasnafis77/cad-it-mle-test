@@ -1,0 +1,1 @@
+ Assume that the outcome space is finite, and the model class is continuously parameterized

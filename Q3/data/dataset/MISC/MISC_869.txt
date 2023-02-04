@@ -1,0 +1,1 @@
+For every constraint language  SYMBOL , it has been conjectured that  SYMBOL  is either in P or NPcomplete  CITATION

@@ -1,0 +1,1 @@
+ Clearly, prices of different stocks on the same day, or of the same stock on different days, may be dependent

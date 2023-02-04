@@ -1,0 +1,1 @@
+The regularizer  SYMBOL  acts as a penalty on the complexity of the classifier and prevents overfitting

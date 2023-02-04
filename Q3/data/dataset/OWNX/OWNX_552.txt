@@ -1,0 +1,1 @@
+qa st with the proposed quantum effect   works well for clustering

@@ -1,0 +1,1 @@
+we do not actually think qa intuitively helps clustering  but we apply qa to clustering just as procedure to derive an algorithm

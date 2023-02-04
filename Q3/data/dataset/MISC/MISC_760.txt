@@ -1,0 +1,1 @@
+factor  regression  couples this analysis with a prediction task  where the predictions are made solely on the basis of the factor representation

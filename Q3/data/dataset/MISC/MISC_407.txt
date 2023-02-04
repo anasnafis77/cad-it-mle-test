@@ -1,0 +1,1 @@
+ The randomized variety was introduced (in the case of von Mises's version of the gametheoretic approach to probability) by Foster and Vohra  CITATION  and further developed by, among others, Sandroni  et al CITATION ; these papers, however, were only concerned with asymptotic calibration

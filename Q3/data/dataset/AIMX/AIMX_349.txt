@@ -1,0 +1,1 @@
+ Besides that we discuss some approaches potentially  applicable to cases in which extra function approximations are necessary,  and the relation with expectation propagation

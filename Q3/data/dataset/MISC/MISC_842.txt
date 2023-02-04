@@ -1,0 +1,1 @@
+now  the task is not just to find any satisfying assignment to the variables  but one that minimizes the total cost

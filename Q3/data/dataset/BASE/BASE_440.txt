@@ -1,0 +1,1 @@
+for our analysis of stationary   mixing sequences  we make use of a generalized version of mcdiarmid s inequality  CITATION  that holds for   mixing sequences

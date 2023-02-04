@@ -1,0 +1,1 @@
+QAST looks like parallel  SYMBOL  SAs with interaction  SYMBOL  (see Fig )

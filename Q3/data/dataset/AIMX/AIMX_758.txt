@@ -1,0 +1,1 @@
+we apply this model to two problems  factor analysis and factor regression  in gene expression data analysis

@@ -1,0 +1,1 @@
+ In the minimum cost homomorphism problem ( SYMBOL ), we are given variables subject to constraints and, additionally, costs on variable/value pairs

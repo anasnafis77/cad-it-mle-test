@@ -1,0 +1,1 @@
+one may define regressor   directly  e g    average the   values of the   nearest neighbors  knn  of   in     or select the   from a class of functions   that has smallest  training  error on

@@ -1,0 +1,1 @@
+ This note states two simple results about defensive forecasting, Theorem  about the continuous variety and Theorem  about the randomized variety

@@ -1,0 +1,1 @@
+to our knowledge  the use of these algorithms in non independent and identically distributed   scenarios has not been previously supported by any theoretical analysis

@@ -1,0 +1,1 @@
+in section   we introduce the necessary definitions for the non independent and identically distributed   problems that we are considering and discuss the learning scenarios in that context

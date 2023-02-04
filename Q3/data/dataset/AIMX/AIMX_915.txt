@@ -1,0 +1,1 @@
+In the first part of the paper we use the Hadamard matrix to construct a regularized risk minimization problem and show that these rates cannot be improved

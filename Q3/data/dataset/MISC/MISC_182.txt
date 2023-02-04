@@ -1,0 +1,1 @@
+ We call this the  universal setup : Given a universal Turing machine, the related class of Bernoulli distributions is isomorphic to the countable set of computable reals in  SYMBOL

@@ -1,0 +1,1 @@
+ We claim that minimizing the loss rank is a suitable model selection criterion, since it trades off the quality of fit with the flexibility of the model

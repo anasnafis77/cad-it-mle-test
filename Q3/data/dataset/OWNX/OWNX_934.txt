@@ -1,0 +1,1 @@
+One possible way to circumvent the  SYMBOL  lower bound is to solve the problem in the dual

@@ -1,0 +1,1 @@
+ This selection cannot be based on the training error, since the more complex the model (large  SYMBOL , small  SYMBOL ) the better the fit on  SYMBOL  (perfect for  SYMBOL  and  SYMBOL )

@@ -1,0 +1,1 @@
+ The proposed algorithm actually finds  SYMBOL  from  SYMBOL  and  SYMBOL

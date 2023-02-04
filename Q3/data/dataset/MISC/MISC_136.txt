@@ -1,0 +1,1 @@
+ For MDL, in general one can only have loss bounds which are finite but exponentially larger than those for Bayes mixtures

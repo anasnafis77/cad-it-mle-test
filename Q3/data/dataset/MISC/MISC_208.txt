@@ -1,0 +1,1 @@
+from  NUMBER  to  NUMBER  the number of globally routable as identifiers has increased from less than  NUMBER   NUMBER  to more than  NUMBER   NUMBER   exerting significant pressure on interdomain routing as well as other functional and structural parts of the internet

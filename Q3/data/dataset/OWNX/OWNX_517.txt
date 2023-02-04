@@ -1,0 +1,1 @@
+ We also illustrate the application of our  SYMBOL mixing generalization bounds to general classes of learning algorithms, including Support Vector Regression (SVR)  CITATION , Kernel Ridge Regression  CITATION , and Support Vector Machines (SVMs)  CITATION

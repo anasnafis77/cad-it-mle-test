@@ -1,0 +1,1 @@
+in particular  we treat the gene to factor relationship nonparametrically by proposing a sparse variant of the indian buffet process  ibp   CITATION   designed to account for the sparsity of relevant genes  features 

@@ -1,0 +1,1 @@
+ A natural choice is Kingman's coalescent  CITATION , a popular distribution over infinite binary trees

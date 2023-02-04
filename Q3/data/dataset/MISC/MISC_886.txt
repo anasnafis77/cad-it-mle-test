@@ -1,0 +1,1 @@
+ SYMBOL  is related to many wellstudied combinatorial optimization problems, and concrete applications can be found in, for instance, defence logistics and machine learning

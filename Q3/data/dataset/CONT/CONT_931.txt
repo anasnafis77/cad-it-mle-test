@@ -1,0 +1,1 @@
+Furthermore, the empirical convergence behavior of BMRM is much better than the theoretically predicted rates on a number of real life problems

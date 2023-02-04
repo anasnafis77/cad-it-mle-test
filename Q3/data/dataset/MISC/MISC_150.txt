@@ -1,0 +1,1 @@
+ Then for Bayes mixture prediction, the cumulative expected square loss is usually small but unbounded, growing with  SYMBOL , where  SYMBOL  is the sample size  CITATION

@@ -1,0 +1,1 @@
+fig is an example where data points are grouped into four clusters

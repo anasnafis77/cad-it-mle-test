@@ -1,0 +1,1 @@
+most generalization bounds in learning theory are based on some measure of the complexity of the hypothesis class used  independently of any algorithm

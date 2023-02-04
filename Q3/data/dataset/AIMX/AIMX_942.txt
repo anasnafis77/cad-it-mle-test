@@ -1,0 +1,1 @@
+ We then show how one can exploit the structure of the objective function to devise an algorithm for the binary hinge loss which converges to an  SYMBOL  accurate solution in  SYMBOL  iterations

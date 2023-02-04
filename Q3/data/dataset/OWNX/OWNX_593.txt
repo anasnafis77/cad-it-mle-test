@@ -1,0 +1,1 @@
+QAST with the proposed quantum effect  SYMBOL  works well for clustering

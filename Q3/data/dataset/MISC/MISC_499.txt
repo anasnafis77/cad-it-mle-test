@@ -1,0 +1,1 @@
+ These measures characterize a class of hypotheses, independently of any algorithm

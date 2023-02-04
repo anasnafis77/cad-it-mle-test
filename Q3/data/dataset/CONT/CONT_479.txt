@@ -1,0 +1,1 @@
+ Our generalization bounds for stationary  SYMBOL mixing sequences cover a more general noniid scenario and use the standard McDiarmid's inequality, however, unlike the  SYMBOL mixing case, the  SYMBOL mixing bound presented here is not a purely exponential bound and contains an additive term depending on the mixing coefficient

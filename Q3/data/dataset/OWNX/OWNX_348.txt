@@ -1,0 +1,1 @@
+ We derive the loop corrected belief propagation equations  for simple tractable Gaussian models,  yielding a message passing scheme that, besides the correct average marginals, also yields the correct variances

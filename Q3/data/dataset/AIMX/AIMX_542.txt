@@ -1,0 +1,1 @@
+our contribution is 1) to propose a qa based optimization algorithm for clustering in particular quantum effect for clustering and a good annealing schedule  which is crucial for applications 2) and to experimentally show the proposed algorithm optimizes clustering assignments better than sa

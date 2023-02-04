@@ -1,0 +1,1 @@
+ In the minimum cost homomorphism problem ( SYMBOL ), one is additionally given weights  SYMBOL  for every variable  SYMBOL  and value  SYMBOL , and the aim is to find an assignment  SYMBOL  to the variables that minimizes  SYMBOL

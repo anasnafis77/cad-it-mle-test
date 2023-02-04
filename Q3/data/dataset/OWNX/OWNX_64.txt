@@ -1,0 +1,1 @@
+The latter bound is small eg under certain conditions on the distribution of the weights, this is the subject of Section

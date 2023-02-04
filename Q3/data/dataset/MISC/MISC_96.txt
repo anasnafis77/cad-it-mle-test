@@ -1,0 +1,1 @@
+We avoid the term ``convergence rate" here, since the order of convergence is identical in both cases

@@ -1,0 +1,1 @@
+ At every iteration BMRM replaces  SYMBOL  by a piecewise linear lower bound  SYMBOL  and optimizes    to obtain the next iterate  SYMBOL

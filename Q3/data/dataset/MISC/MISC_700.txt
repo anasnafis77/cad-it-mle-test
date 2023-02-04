@@ -1,0 +1,1 @@
+ See eg CITATION  for a comparison of crossvalidation with Bayesian model selection

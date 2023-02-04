@@ -1,0 +1,1 @@
+Applications of  SYMBOL s arise in the propositional logic, database and graph theory, scheduling and many other areas

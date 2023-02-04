@@ -1,0 +1,1 @@
+The description length  SYMBOL  of a parameter  SYMBOL  is then given by the length of its shortest program

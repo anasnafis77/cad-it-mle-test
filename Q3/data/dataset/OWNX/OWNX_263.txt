@@ -1,0 +1,1 @@
+our validation demonstrates that our classification algorithm achieves high accuracy   NUMBER   NUMBER  percent  of the examined classifications were correct

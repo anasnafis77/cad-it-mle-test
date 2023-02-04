@@ -1,0 +1,1 @@
+ In practice, the MDL estimator is usually being approximated too, since only a local maximum is determined

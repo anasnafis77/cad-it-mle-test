@@ -1,0 +1,1 @@
+This implies a small bound (comparable to the one for Bayes mixtures) for certain important model classes

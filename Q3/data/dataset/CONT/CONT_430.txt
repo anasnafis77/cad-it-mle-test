@@ -1,0 +1,1 @@
+in many machine learning applications  this assumption  however  does not hold  in fact  the independent and identically distributed   assumption is not tested or derived from any data analysis

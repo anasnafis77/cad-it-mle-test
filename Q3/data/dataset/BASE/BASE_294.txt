@@ -1,0 +1,1 @@
+ We use a large set of data from the Internet Routing Registries~(IRR)~ CITATION  and from RouteViews~ CITATION  to identify intrinsic differences between ASes of different types

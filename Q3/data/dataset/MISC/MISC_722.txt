@@ -1,0 +1,1 @@
+ Let  SYMBOL  be the (best) regressor of complexity  SYMBOL  on data  SYMBOL

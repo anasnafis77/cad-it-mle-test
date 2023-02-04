@@ -1,0 +1,1 @@
+in the constraint satisfaction problem      the aim is to find an assignment of values to a set of variables subject to specified constraints

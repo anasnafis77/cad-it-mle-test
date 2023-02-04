@@ -1,0 +1,1 @@
+in our informal discussions we will be assuming that the set   of all possible outcomes is finite  although we will try to make mathematical statements as general as possible

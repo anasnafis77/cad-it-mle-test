@@ -1,0 +1,1 @@
+we discuss the relation of this  loop correction algorithm to expectation propagation  algorithms for the case in which the model is no longer  gaussian  but slightly perturbed by nonlinear terms

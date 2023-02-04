@@ -1,0 +1,1 @@
+ We derive macroscopic statistics on the different types of ASes in the Internet and validate our results using a sample of~1200 manually identified AS types

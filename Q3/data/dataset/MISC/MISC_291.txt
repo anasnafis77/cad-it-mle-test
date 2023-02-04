@@ -1,0 +1,1 @@
+ Given an AS taxonomy, its possible to realize this goal by checking the type of AS that originates the prefix in which an IP address lies

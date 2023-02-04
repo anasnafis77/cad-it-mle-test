@@ -1,0 +1,1 @@
+ This paper studies the scenario where the observations are drawn from a stationary  SYMBOL mixing or  SYMBOL mixing sequence, a widely adopted assumption in the study of noniid  processes that implies a dependence between observations weakening over time

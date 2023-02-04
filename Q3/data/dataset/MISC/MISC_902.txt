@@ -1,0 +1,1 @@
+ The question for which directed graphs  SYMBOL  the problem  SYMBOL  is polynomialtime solvable was considered in  CITATION

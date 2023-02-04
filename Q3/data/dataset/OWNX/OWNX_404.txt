@@ -1,0 +1,1 @@
+ New as compared to version 1 (17 August 2007) of this report: The assumption of version 1 that the outcome space  SYMBOL  is finite is relaxed, and now it is only assumed to be compact

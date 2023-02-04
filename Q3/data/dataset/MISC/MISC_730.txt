@@ -1,0 +1,1 @@
+ Consider a regression or classification problem in which we want to determine the functional relationship  SYMBOL  from data  SYMBOL , ie we seek a function  SYMBOL  such that  SYMBOL  is close to the unknown  SYMBOL  for all  SYMBOL

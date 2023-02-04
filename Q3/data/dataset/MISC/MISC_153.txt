@@ -1,0 +1,1 @@
+ Note that in order to do MDL for continuous model classes, one needs to  discretize  the parameter space, see also  CITATION

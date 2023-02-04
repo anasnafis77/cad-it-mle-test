@@ -1,0 +1,1 @@
+ Nonasymptotic versions of the randomized variety were proposed by Sandroni  CITATION  (based on standard measuretheoretic probability) and Vovk and Shafer  CITATION  (based on gametheoretic probability)

@@ -1,0 +1,1 @@
+ Unlike most penalized maximum likelihood variants (AIC,BIC,MDL), LoRP only depends on the regression functions and the loss function

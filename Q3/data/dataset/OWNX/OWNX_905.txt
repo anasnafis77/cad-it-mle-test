@@ -1,0 +1,1 @@
+ Of course, this dichotomy implies the dichotomy for directed graphs

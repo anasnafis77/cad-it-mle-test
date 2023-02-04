@@ -1,0 +1,1 @@
+ Given a training set of  SYMBOL  sample label pairs  SYMBOL , drawn iid from a joint probability distribution on  SYMBOL , many machine learning algorithms solve the following regularized risk minimization problem:     

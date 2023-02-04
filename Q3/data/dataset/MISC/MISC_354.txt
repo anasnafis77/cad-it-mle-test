@@ -1,0 +1,1 @@
+ Message passing techniques in graphical models allow for the computation of (approximate)  marginal probabilities in a time interval scaling polynomially in the  model size

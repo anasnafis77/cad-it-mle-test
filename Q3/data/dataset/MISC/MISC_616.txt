@@ -1,0 +1,1 @@
+ Although their schedule is in practice too slow for clustering of a large amount of data, it is well known that SA still finds a reasonably good solution even with a faster schedule than what CITATION proposed

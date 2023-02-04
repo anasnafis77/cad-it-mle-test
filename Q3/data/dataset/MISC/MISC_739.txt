@@ -1,0 +1,1 @@
+ In addition to the function class  SYMBOL , one has to specify a sampling model  SYMBOL , eg that the  SYMBOL  have independent Gaussian distribution with mean  SYMBOL

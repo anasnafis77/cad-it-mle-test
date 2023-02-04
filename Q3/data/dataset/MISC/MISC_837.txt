@@ -1,0 +1,1 @@
+for example  when   is a constraint language over the boolean set   with four ternary predicates            we obtain  NUMBER  sat

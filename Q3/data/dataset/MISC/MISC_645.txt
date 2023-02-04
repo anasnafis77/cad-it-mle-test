@@ -1,0 +1,1 @@
+ Clustering algorithms in most cases give ``almost'' globally optimal solutions like  SYMBOL  and  SYMBOL , where the majority of data points are wellclustered, but some of them are not

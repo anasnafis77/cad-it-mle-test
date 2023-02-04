@@ -1,0 +1,1 @@
+Thus, we approximate QA by the SuzukiTrotter (ST) expansion  CITATION  to derive a tractable sampler, which is the QAST sampler

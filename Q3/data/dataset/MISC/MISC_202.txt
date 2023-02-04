@@ -1,0 +1,1 @@
+an as  node  can represent a wide variety of organizations  e g   large isp  or small private business  university  with vastly different network characteristics  external connectivity patterns  network growth tendencies  and other properties that we can hardly neglect while working on veracious internet representations in simulation environments

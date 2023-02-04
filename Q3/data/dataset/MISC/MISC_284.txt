@@ -1,0 +1,1 @@
+ Since there is such a diversity among different network types, we cannot accurately augment the ASlevel topology with appropriate routerlevel topologies if we cannot characterize the composing ASes

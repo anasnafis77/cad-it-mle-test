@@ -1,0 +1,1 @@
+new as compared to version  NUMBER    NUMBER  august  NUMBER   of this report   the assumption of version  NUMBER  that the outcome space   is finite is relaxed  and now it is only assumed to be compact

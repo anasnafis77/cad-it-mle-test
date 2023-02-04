@@ -1,0 +1,1 @@
+thus  we approximate qa by the suzuki trotter  st  expansion  CITATION  to derive a tractable sampler  which is the qa st sampler

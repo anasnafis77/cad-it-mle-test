@@ -1,0 +1,1 @@
+ Algorithms such as support vector regression (SVR)  CITATION  have been used in the context of time series prediction in which the iid assumption does not hold, some with good experimental results  CITATION

@@ -1,0 +1,1 @@
+ In Section  we derive explicit expressions for the loss rank for the important class of linear regressors, which includes kNN, polynomial, linear basis function (LBFR), Kernel, and projective regression

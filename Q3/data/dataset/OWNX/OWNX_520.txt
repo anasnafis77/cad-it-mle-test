@@ -1,0 +1,1 @@
+ The stability bounds we give for SVR, SVMs, and many other kernel regularizationbased and relative entropybased regularization algorithms can thus be viewed as the first theoretical basis for their use in such scenarios

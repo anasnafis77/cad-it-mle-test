@@ -1,0 +1,1 @@
+ This problem has the following two equivalent formulations: (1) to find an assignment of values to a given set of variables, subject to constraints on the values that can be assigned simultaneously to specified subsets of variables, and (2) to find a homomorphism between two finite relational structures  SYMBOL  and  SYMBOL

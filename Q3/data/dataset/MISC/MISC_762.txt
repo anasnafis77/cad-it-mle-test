@@ -1,0 +1,1 @@
+in particular    NUMBER   is motivated by the problem of prediction in the    large p small n    paradigm  CITATION   where the number of features   greatly exceeds the number of examples    potentially resulting in overfitting

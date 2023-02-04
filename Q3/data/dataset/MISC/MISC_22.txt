@@ -1,0 +1,1 @@
+It has been demonstrated  CITATION , that for both Bayes mixture and MDL, the proper learning assumption can be essential: If it is violated, then learning may fail very badly

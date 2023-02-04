@@ -1,0 +1,1 @@
+in addition  we couple predictive modeling  for factor regression  within the factor analysis framework itself  instead of having to model it separately

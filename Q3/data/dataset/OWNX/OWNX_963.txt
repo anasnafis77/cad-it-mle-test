@@ -1,0 +1,1 @@
+ Examples of this include multiclass, multilabel, and ordinal regression hinge loss and other related losses

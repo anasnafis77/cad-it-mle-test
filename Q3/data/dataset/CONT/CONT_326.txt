@@ -1,0 +1,1 @@
+a by product of our loop corrected belief propagation equations is an algorithm that calculates exact covariance matrices for gaussian models like the one discussed in  CITATION   but without explicitly using linear response

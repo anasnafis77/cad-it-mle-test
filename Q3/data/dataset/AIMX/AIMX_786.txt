@@ -1,0 +1,1 @@
+We address three fundamental shortcomings of standard factor analysis approaches  CITATION : (1) we do not assume a known number of factors; (2) we do not assume factors are independent; (3) we do not assume all features are relevant to the factor analysis

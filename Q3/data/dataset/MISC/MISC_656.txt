@@ -1,0 +1,1 @@
+it works without a stochastic noise model  and is directly applicable to any non parametric regressor  like knn

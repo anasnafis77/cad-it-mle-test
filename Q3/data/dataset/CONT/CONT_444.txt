@@ -1,0 +1,1 @@
+algorithms such as support vector regression  svr   CITATION  have been used in the context of time series prediction in which the independent and identically distributed   assumption does not hold  some with good experimental results  CITATION

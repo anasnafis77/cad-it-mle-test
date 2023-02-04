@@ -1,0 +1,1 @@
+ Moreover, it is wellknown that the instantaneous square loss of the Maximum Likelihood estimator decays as  SYMBOL  in the Bernoulli case

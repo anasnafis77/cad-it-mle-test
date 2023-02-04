@@ -1,0 +1,1 @@
+see e g    CITATION  for a comparison of cross validation with bayesian model selection

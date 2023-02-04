@@ -1,0 +1,1 @@
+to make it applicable to real problems  we have to generalize it to continuous spaces and regularize infinite loss ranks

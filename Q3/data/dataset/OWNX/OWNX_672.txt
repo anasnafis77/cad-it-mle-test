@@ -1,0 +1,1 @@
+the key observation we exploit is that large classes   or more flexible regressors   can fit more data   well than more rigid ones  e g   many   can be fit well with high order polynomials

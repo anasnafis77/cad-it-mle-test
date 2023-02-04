@@ -1,0 +1,1 @@
+as we explain later  a naive qa sampler is intractable even with mcmc

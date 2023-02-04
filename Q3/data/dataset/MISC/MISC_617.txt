@@ -1,0 +1,1 @@
+ In statistical mechanics, quantum annealing (QA) has been proposed as a novel alternative to SA  CITATION

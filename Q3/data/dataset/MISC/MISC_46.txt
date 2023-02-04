@@ -1,0 +1,1 @@
+By the Kraft inequality, the priors sum up to at most one

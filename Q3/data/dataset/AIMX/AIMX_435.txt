@@ -1,0 +1,1 @@
+this paper studies the scenario where the observations are drawn from a stationary   mixing or   mixing sequence  a widely adopted assumption in the study of non independent and identically distributed   processes that implies a dependence between observations weakening over time  CITATION

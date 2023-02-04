@@ -1,0 +1,1 @@
+we address three fundamental shortcomings of standard factor analysis approaches  CITATION     NUMBER   we do not assume a known number of factors    NUMBER   we do not assume factors are independent    NUMBER   we do not assume all features are relevant to the factor analysis

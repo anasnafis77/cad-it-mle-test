@@ -1,0 +1,1 @@
+we also illustrate the application of our   mixing generalization bounds to general classes of learning algorithms  including support vector regression  kernel ridge regression  and support vector machines  and many other kernel regularization based and relative entropy based regularization algorithms

@@ -1,0 +1,1 @@
+constraint satisfaction problems     are a natural way of formalizing a large number of computational problems arising in combinatorial optimization  artificial intelligence  and database theory

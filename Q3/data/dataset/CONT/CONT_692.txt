@@ -1,0 +1,1 @@
+ It works without a stochastic noise model, and is directly applicable to any nonparametric regressor, like kNN

@@ -1,0 +1,1 @@
+It was recently shown that BMRM requires  SYMBOL  iterations to converge to an  SYMBOL  accurate solution

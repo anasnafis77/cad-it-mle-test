@@ -1,0 +1,1 @@
+ Since our motivation is an application in bioinformatics, our notation and terminology will be drawn from that area

@@ -1,0 +1,1 @@
+If we agree that programs are binary strings, then a prior is defined by two to the negative description length

@@ -1,0 +1,1 @@
+qa has succeeded in specific problems  e g the ising model in statistical mechanics  and it is still unclear that qa works better than sa in general

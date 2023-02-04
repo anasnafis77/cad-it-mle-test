@@ -1,0 +1,27 @@
+Description,Possible Root Cause,Page
+indoor pcb abnormality,faulty indoor pcb. faulty connector connection at indoor,35
+antifreeze protection or high pressure control,indoor air short circuit. indoor coil thermistor faulty. indoor pcb faulty. fan blower dirty,36
+indoor fan motor abnormality,indoor fan motor winding short  or the motor lead wire broken. indoor pcb faulty. thermistor  connector faulty. indoor pcb faulty,37
+indoor room thermistor abnormality,thermistor  connector faulty. indoor pcb faulty,38
+outdoor pcb abnormality,damage of eeprom. faulty outdoor unit pcb. broken hardness between pcb,39
+compressor overload,refrigerant shortage. 4 way valve malfunction. stop valve malfunction. outdoor unit pcb defective. water mixed in refrigerant. electronic expansion valve defective. disconnection of discharge pipe thermistor. faulty discharge pipe thermistor. disconnection of connector s40. 10. electronic expansion valve or coil malfunction. disconnection of 2 terminals of ol,40
+compressor overload,refrigerant shortage. 4 way valve malfunction. electronic expansion valve defective. outdoor unit pcb defective. water mixed in refrigerant,41
+compressor lock/start-up abnormality,compressor locked. compressor harness disconnect,42
+outdoor fan motor lock,fan motor breakdown. harness or connector disconnected between fan motor and pcb or in poor contact. foreign matter stuck in fan. defective outdoor unit pcb,43
+ac input over current,over current due to compressor failure. over current due to defective outdoor unit pcb. over current due to defective power transistor. over current due to short-circuit,44
+4 way valve abnormality,thermistor defective. 4 way valve defective. outdoor pcb defective. foreign substance mixed in refrigerant. stop valve defective. disconnect of 4 way valve coil,45
+discharge pipe overheat,refrigerant shortage. four way valve malfunctioning. discharge pipe thermistor defective. outdoor pcb defective. water mixed in the local piping. exv defective. stop valve defective,46
+heat exchanger overheat,the installation space is not large enough. faulty outdoor fan motor. faulty exv. faulty outdoor heat exchanger thermistor. faulty stop valve. dirty heat exchanger. unit overcharge. defective outdoor unit pcb,47
+compressor sensor system abnormal,broken and disconnected harness. outdoor unit pcb defective. defective compressor,48
+compressor sensor system abnormal,broken and disconnected harness. outdoor unit pcb defective,49
+position sensor abnormal (compressor),compressor relay cable disconnected. compressor itself defective. outdoor pcb defective. stop valve closed,50
+position sensor abnormal (compressor),compressor relay cable disconnected. compressor itself defective. outdoor pcb defective. stop valve closed,51
+ac current sensor abnormality,internal wiring broken. outdoor unit pcb defective,52
+thermistor or related abnormality,disconnection of the connector for the thermistor. thermistor corresponding to the error code is defective. defective outdoor unit pcb,53
+electrical box temperature rise (compressor off),fin temperature rise due to defective outdoor unit fan. fin temperature rise due to short circuit. fin thermistor defective. connector in poor contact. outdoor unit pcb defective,54
+heat sink overheat,fin temperature rise due to short circuit. fin temperature rise due to defective outdoor unit fan. fin thermistor defective. connector in poor contact. outdoor unit pcb defective,55
+ipm abnormality,over current due to defective power transistor. over current due to wrong internal wiring. over current due to abnormal supply voltage. over current due to defective pcb. error detection due to defective pcb. over- current due to closed stop valve. over current due to compressor failure. over current due to poor installation condition. connection between main board and ipm board is not properly connect,56
+insufficient gas,closed stop valve. refrigerant shortage (refrigerant leakage). poor compression performance of compressor. defective electronic expansion valve,57
+dc voltage out of range,defective dc voltage detection circuit. defective over-voltage detection circuit. defective pam control part. short circuit inside the fan motor winding. noise. momentary drop of voltage. momentary power failure. defective outdoor unit pcb,58
+communication abnormality,faulty outdoor unit pcb. faulty indoor unit pcb. indoor unit – outdoor unit signal transmission error due to wiring error. indoor unit – outdoor unit signal transmission error due to disturbed power supply waveform,59
+installation abnormality,wrong models interconnected. wrong indoor unit pcb mounted. indoor unit pcb defective. wrong outdoor unit pcb mounted or defective,60

@@ -1,0 +1,1 @@
+ Our proofs are based on the independent block technique described by  CITATION  and attributed to  CITATION , which is commonly used in such contexts

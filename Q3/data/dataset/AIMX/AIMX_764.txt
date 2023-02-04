@@ -1,0 +1,1 @@
+our motivation for this work stems from the task of reconstructing regulatory structure from gene expression data

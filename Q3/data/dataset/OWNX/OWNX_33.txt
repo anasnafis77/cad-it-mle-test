@@ -1,0 +1,1 @@
+Note that then the MDL ``predictor" just becomes an estimator, in that it estimates the true parameter and directly uses that for prediction

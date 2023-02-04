@@ -1,0 +1,1 @@
+this paper studies quantum annealing  qa  for clustering  which can be seen as an extension of simulated annealing  sa 

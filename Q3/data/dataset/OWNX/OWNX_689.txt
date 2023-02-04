@@ -1,0 +1,1 @@
+ We define the loss rank of  SYMBOL  as the number of other (fictitious) data  SYMBOL  that are fitted better by  SYMBOL  than  SYMBOL  is fitted by  SYMBOL

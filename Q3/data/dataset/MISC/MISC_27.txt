@@ -1,0 +1,1 @@
+Additionally, it gives a  convergence speed , in the sense that errors of a certain magnitude cannot occur too often

@@ -1,0 +1,1 @@
+unlike pml  our new loss rank principle  lorp  works without a noise  stochastic sampling  model  and is directly applicable to any non parametric regressor  like knn

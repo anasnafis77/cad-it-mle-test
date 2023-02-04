@@ -1,0 +1,1 @@
+we propose a nonparametric bayesian factor regression model that accounts for uncertainty in the number of factors  and the relationship between factors

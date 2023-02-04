@@ -1,0 +1,1 @@
+there are two known varieties of defensive forecasting    continuous    in which sceptic s moves are assumed to depend on the forecasts in a  semi continuous manner and which produces deterministic forecasts  and   randomized    in which the dependence of sceptic s moves on the forecasts is arbitrary and forecaster s moves are allowed to be randomized

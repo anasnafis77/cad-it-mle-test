@@ -1,0 +1,1 @@
+in many cases  the corresponding graphs are loopy  implying either that the error resulting from the application of loopy belief propagation  bp  is negligible for the particular model  or it  can be tolerated for the particular purpose bp serves

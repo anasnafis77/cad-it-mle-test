@@ -1,0 +1,1 @@
+the question for which directed graphs   the problem   is polynomial time solvable was considered in  CITATION

@@ -1,0 +1,1 @@
+ In this paper we apply the idea to graphical models for continuous variables

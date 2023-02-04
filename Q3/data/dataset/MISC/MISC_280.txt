@@ -1,0 +1,1 @@
+ In topology modeling, knowledge of AS types is mandatory for augmenting synthetically constructed or measured AS topologies with realistic intraAS and interAS routerlevel topologies

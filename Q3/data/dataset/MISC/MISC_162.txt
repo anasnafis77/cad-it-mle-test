@@ -1,0 +1,1 @@
+ So for both, Bayes mixtures and MDL, convergence with probability one holds, while the convergence speed is exponentially worse for MDL compared to the Bayes mixture

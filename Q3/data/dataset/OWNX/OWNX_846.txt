@@ -1,0 +1,1 @@
+from this characterization  we obtain a dichotomy for    i e   if   is not polynomial time solvable  then it is np hard

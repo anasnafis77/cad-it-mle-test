@@ -1,0 +1,1 @@
+SYMBOL and  SYMBOL are locally optimal and  SYMBOL  is globally optimal

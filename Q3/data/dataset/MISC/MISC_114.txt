@@ -1,0 +1,1 @@
+Also the Bernoulli case can be studied in the view of Algorithmic Information Theory

@@ -1,0 +1,1 @@
+ If the class  SYMBOL  is not too large, e g the polynomials of fixed reasonable degree  SYMBOL , this often works well

@@ -1,0 +1,1 @@
+In particular, we treat the genetofactor relationship nonparametrically by proposing a sparse variant of the Indian Buffet Process (IBP)  CITATION , designed to account for the sparsity of relevant genes (features)

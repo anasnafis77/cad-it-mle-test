@@ -1,0 +1,1 @@
+Note an assignment constructed in such a way is located between the suboptimal ones by the proposed quantum effect  SYMBOL  so that QAST can find a better assignment between suboptimal ones

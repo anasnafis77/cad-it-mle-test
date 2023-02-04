@@ -1,0 +1,1 @@
+ One may define regressor  SYMBOL  directly, eg `average the  SYMBOL  values of the  SYMBOL  nearest neighbors (kNN) of  SYMBOL  in  SYMBOL ', or select the  SYMBOL  from a class of functions  SYMBOL  that has smallest (training) error on  SYMBOL

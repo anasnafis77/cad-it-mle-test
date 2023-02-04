@@ -1,0 +1,1 @@
+ Usually the loss is convex in  SYMBOL  but can be nonsmooth while the regularizer is usually a smooth strongly convex function

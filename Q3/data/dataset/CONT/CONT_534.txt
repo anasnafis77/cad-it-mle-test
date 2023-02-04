@@ -1,0 +1,1 @@
+although their schedule is in practice too slow for clustering of a large amount of data  it is well known that sa still finds a reasonably good solution even with a faster schedule than what  citeauthor geman NUMBER   proposed

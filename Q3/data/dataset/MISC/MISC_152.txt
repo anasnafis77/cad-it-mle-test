@@ -1,0 +1,1 @@
+ For the MDL predictor, the losses behave similarly  CITATION  under appropriate conditions, in particular with a specific prior

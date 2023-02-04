@@ -1,0 +1,1 @@
+in the case where   is finite  it is shown that forecaster can choose his randomized forecasts concentrated on a finite set of cardinality at most

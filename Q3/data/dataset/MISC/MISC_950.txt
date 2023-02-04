@@ -1,0 +1,1 @@
+ The first and perhaps the best known solver is SVMStruct  CITATION , which was shown to converge in  SYMBOL  iterations to an  SYMBOL  accurate solution

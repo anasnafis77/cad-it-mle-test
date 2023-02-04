@@ -1,0 +1,1 @@
+Binary Support Vector Machines (SVMs) are a prototypical example of such regularized risk minimization problems where  SYMBOL  and the loss considered is the binary hinge loss:    

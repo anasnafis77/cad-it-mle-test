@@ -1,0 +1,1 @@
+ Our validation demonstrates that our classification algorithm achieves high accuracy:~78 1\% of the examined classifications were correct

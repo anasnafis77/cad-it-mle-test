@@ -1,0 +1,1 @@
+ In Section  we compare linear LoRP to Bayesian model selection for linear regression with Gaussian noise and prior, and in Section  to PML, in particular MDL, BIC, AIC, and MacKay's  CITATION  and Hastie's et al  CITATION  trace formulas for the effective dimension

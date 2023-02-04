@@ -1,0 +1,1 @@
+``Bayes mixture", ``Solomonoff induction", ``marginalization", all these terms refer to a central induction principle: Obtain a predictive distribution by integrating the product of prior and evidence over the model class

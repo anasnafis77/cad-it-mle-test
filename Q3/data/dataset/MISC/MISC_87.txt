@@ -1,0 +1,1 @@
+On the other hand, if the model class is discrete, then Solomonoff's theorem  CITATION  bounds the cumulative expected square loss for the Bayes mixture predictions finitely, namely by  SYMBOL , where  SYMBOL  is the prior weight of the ``true" model  SYMBOL

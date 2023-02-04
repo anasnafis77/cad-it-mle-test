@@ -1,0 +1,1 @@
+Even though BMRM solves an expensive optimization problem at every iteration, the convergence analysis only uses a simple onedimensional line search to bound the decrease in  SYMBOL

@@ -1,0 +1,1 @@
+section  gives our main generalization bounds for stationary   mixing sequences based on stability  as well as the illustration of its applications to general kernel regularization based algorithms  including svr  krr  and svms  as well as to relative entropy based regularization algorithms

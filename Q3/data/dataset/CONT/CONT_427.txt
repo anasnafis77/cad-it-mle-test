@@ -1,0 +1,1 @@
+a learning algorithm is stable if the hypothesis it outputs varies in a limited way in response to small changes made to the training set

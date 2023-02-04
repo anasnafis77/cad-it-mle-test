@@ -1,0 +1,1 @@
+ At the beginning of the annealing process, QAST is almost the same as  SYMBOL  SAs

@@ -1,0 +1,1 @@
+ For models involving many short loops,  like on regular lattices, CVM type approaches work well  CITATION , or tree EP approaches  CITATION

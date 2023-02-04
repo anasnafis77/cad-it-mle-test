@@ -1,0 +1,1 @@
+We  couple  this IBP with a hierarchical prior over the factors

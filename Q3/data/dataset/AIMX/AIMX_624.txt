@@ -1,0 +1,1 @@
+ Our contribution is, 1) to propose a QAbased optimization algorithm for clustering, in particular quantum effect  SYMBOL  for clustering  and a good annealing schedule, which is crucial for applications, 2) and to experimentally show the proposed algorithm optimizes clustering assignments better than SA

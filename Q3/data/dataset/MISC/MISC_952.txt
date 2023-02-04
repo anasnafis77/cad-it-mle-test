@@ -1,0 +1,1 @@
+ In fact,  CITATION  showed that their convergence analysis holds for a more general solver than SVMStruct namely BMRM (Bundle method for regularized risk minimization)

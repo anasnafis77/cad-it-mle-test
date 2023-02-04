@@ -1,0 +1,1 @@
+ However, our analysis differs from previous uses of this technique in that the blocks of points considered are not of equal size

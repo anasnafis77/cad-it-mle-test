@@ -1,0 +1,1 @@
+a derived qa algorithm depends on the definition of quantum effect

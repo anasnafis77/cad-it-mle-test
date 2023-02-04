@@ -1,0 +1,1 @@
+to accomplish this  we propose a sparse variant of the indian buffet process and couple this with a hierarchical model over factors  based on kingman s coalescent

@@ -1,0 +1,1 @@
+ In the case where  SYMBOL  is finite, it is shown that Forecaster can choose his randomized forecasts concentrated on a finite set of cardinality at most  SYMBOL

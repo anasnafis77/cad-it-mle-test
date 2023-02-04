@@ -1,0 +1,1 @@
+in this paper we derive the equations for loop corrected belief propagation on a continuous variable gaussian model

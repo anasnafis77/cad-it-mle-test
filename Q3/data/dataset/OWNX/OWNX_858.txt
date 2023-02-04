@@ -1,0 +1,1 @@
+We show that  SYMBOL  can be studied by using algebraic methods similar to those used for CSPs

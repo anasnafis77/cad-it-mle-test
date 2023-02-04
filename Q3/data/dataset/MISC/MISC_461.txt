@@ -1,0 +1,1 @@
+ Most generalization bounds in learning theory are based on some measure of the complexity of the hypothesis class used, such as the VCdimension, covering numbers, or Rademacher complexity

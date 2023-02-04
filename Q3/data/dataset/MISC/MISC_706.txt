@@ -1,0 +1,1 @@
+ All PML variants rely on a proper sampling model (which may be difficult to establish), ignore (or at least do not tell how to incorporate) a potentially given loss function, and are typically limited to (semi)parametric models

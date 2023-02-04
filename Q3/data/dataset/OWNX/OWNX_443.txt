@@ -1,0 +1,1 @@
+we also illustrate the application of our   mixing generalization bounds to general classes of learning algorithms  including support vector regression  svr   CITATION   kernel ridge regression  CITATION   and support vector machines  svms   CITATION

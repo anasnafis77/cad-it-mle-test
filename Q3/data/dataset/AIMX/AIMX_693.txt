@@ -1,0 +1,1 @@
+ In this paper we formalize, discuss, and motivate LoRP, study it for specific regression problems, in particular linear ones, and compare it to other model selection schemes

@@ -1,0 +1,1 @@
+this problem has the following two equivalent formulations    NUMBER   to find an assignment of values to a given set of variables  subject to constraints on the values that can be assigned simultaneously to specified subsets of variables  and   NUMBER   to find a homomorphism between two finite relational structures   and

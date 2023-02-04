@@ -1,0 +1,1 @@
+ Section 7 introduces the concept of  arithmetical deadlocks  which lay the foundation for the final proof in Section 8

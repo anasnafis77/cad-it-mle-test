@@ -1,0 +1,1 @@
+the latent factor representation achieves two fold benefits    NUMBER   discovering the latent  process  underlying the data    NUMBER   simpler predictive modeling through a compact data representation

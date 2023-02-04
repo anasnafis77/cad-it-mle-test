@@ -1,0 +1,1 @@
+Factor analysis is the task of explaining data by means of a set of  latent factors

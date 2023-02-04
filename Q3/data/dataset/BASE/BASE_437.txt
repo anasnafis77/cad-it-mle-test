@@ -1,0 +1,1 @@
+these bounds strictly generalize the bounds given in the independent and identically distributed   case and apply to all stable learning algorithms  thereby extending the usefulness of stability bounds to non independent and identically distributed   scenarios

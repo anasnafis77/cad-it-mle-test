@@ -1,0 +1,1 @@
+ Thus, categorizing different types of ASes in the Internet is necessary to identify network evolution patterns and develop accurate evolution models

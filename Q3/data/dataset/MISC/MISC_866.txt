@@ -1,0 +1,1 @@
+For example, when  SYMBOL  is a constraint language over the boolean set  SYMBOL  with four ternary predicates  SYMBOL ,  SYMBOL ,  SYMBOL ,  SYMBOL  we obtain 3SAT

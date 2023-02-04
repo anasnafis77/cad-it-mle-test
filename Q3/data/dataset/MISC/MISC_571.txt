@@ -1,0 +1,1 @@
+Typically, clustering problems are formulated as optimization problems, which are solved by algorithms, for example the EM algorithm or convex relaxation

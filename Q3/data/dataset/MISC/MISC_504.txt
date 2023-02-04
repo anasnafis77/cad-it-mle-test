@@ -1,0 +1,1 @@
+ In many machine learning applications, this assumption, however, does not hold; in fact, the iid assumption is not tested or derived from any data analysis

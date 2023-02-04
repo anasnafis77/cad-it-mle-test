@@ -1,0 +1,1 @@
+ We release to the community the ASlevel topology dataset augmented with: 1) the AS taxonomy information and 2) the set of AS attributes we used to classify ASes

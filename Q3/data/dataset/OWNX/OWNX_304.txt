@@ -1,0 +1,1 @@
+using the exactness of the averages for belief propagation for gaussian models  a  different way of obtaining the covariances is found   based on belief propagation on cavity graphs

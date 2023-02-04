@@ -1,0 +1,1 @@
+these quantities are parameterizations of the   cavity distributions     i e   the  distribution over neighbor variables of a central variable which has been removed from the graph

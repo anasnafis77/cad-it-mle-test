@@ -1,0 +1,1 @@
+ Hence, QAST finds  SYMBOL  (local) optima independently

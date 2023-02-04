@@ -1,0 +1,1 @@
+the principal requirement  is that the magnitude of pair variable cumulants of cavity distributions is an order smaller than the  single variable cumulants  and third order cumulants are even smaller  etc

@@ -1,0 +1,1 @@
+in the minimum cost homomorphism problem      we are given variables subject to constraints and  additionally  costs on variable value pairs

@@ -1,0 +1,1 @@
+ A more flexible regressor can fit more data  SYMBOL  well than a more rigid one

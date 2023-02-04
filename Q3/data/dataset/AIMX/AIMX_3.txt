@@ -1,0 +1,1 @@
+We show that this is even the case if the model class contains only Bernoulli distributions

@@ -1,0 +1,1 @@
+the bethe approximation and bp are recovered when this  cavity distribution is assumed to factorize  whereas the first order correction to the local update equations is obtained when one takes into account the pair cumulants  CITATION

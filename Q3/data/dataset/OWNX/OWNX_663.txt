@@ -1,0 +1,1 @@
+this problem is called overfitting  for which various remedies have been suggested   we will not discuss empirical test set methods like cross validation  but only training set based methods

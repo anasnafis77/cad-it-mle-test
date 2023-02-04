@@ -1,0 +1,1 @@
+ For our analysis of stationary  SYMBOL mixing sequences, we make use of a generalized version of McDiarmid's inequality  CITATION  that holds for  SYMBOL mixing sequences

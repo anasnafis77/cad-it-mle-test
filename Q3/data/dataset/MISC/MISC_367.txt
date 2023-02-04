@@ -1,0 +1,1 @@
+ The above ``loop correction''  strategy is applicable in the class of models where a perturbative expansion around the Bethe approximation makes sense, i e , in models with large loops and relatively weak interactions

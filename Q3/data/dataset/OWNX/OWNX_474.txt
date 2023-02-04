@@ -1,0 +1,1 @@
+ These bounds strictly generalize the bounds given in the iid case and apply to all stable learning algorithms, thereby extending the usefulness of stabilitybounds to noniid scenarios

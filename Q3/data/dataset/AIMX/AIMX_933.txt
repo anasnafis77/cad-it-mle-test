@@ -1,0 +1,1 @@
+In this paper we answer this question in the negative by explicitly constructing a regularized risk minimization problem for which BMRM takes at least  SYMBOL  iterations

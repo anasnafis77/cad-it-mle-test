@@ -1,0 +1,1 @@
+ Using a very old result of Nesterov  CITATION  we obtain an algorithm for SVMs which only requires  SYMBOL  iterations to converge to an  SYMBOL  accurate solution; each iteration of the algorithm requires  SYMBOL  work

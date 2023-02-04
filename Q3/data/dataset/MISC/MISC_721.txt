@@ -1,0 +1,1 @@
+ Many regression models are controlled by some smoothness or flexibility or complexity parameter  SYMBOL , eg the number of neighbors to be averaged over in k nearest neighbor (kNN) regression or the polynomial degree in regression with polynomials

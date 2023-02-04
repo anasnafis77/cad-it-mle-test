@@ -1,0 +1,1 @@
+in addition to the function class    one has to specify a sampling model    e g   that the   have independent gaussian distribution with mean

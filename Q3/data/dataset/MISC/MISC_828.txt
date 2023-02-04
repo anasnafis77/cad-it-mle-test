@@ -1,0 +1,1 @@
+is related to many well studied combinatorial optimization problems  and concrete applications can be found in  for instance  defence logistics and machine learning

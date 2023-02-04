@@ -1,0 +1,1 @@
+ In this paper, we approach the problem in its most general form by algebraic methods and give a complete algebraic characterization of tractable constraint languages

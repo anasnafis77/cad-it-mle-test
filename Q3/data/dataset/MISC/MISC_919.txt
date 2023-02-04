@@ -1,0 +1,1 @@
+Here  SYMBOL  denotes the loss on instance  SYMBOL  using the current model  SYMBOL  and  SYMBOL , the empirical risk, is the average loss on the training set

@@ -1,0 +1,1 @@
+ Estimation of these pair cumulants is possible with extra runs of BP, allowing for new polynomial time algorithms, reducing errors to order  SYMBOL   when applying algorithms of which running time scales with an extra factor  of  SYMBOL   CITATION

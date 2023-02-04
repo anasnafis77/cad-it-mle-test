@@ -1,0 +1,1 @@
+Typically the (instance,class) pairs are iid

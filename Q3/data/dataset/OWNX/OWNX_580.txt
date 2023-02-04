@@ -1,0 +1,1 @@
+We do not actually think QA intuitively helps clustering, but we apply QA to clustering just as procedure to derive an algorithm

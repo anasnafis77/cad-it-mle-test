@@ -1,0 +1,1 @@
+ It is therefore natural to ask if there are model classes where the cumulative loss of MDL is comparable to that of Bayes mixture predictions

@@ -1,0 +1,1 @@
+Moreover, the models are stochastic, precisely they are  semimeasures  on strings (programs need not halt, otherwise the models were even measures)

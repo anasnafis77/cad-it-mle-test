@@ -1,0 +1,1 @@
+ In particular, (2) is motivated by the problem of prediction in the  ``large P small N''  paradigm  CITATION , where the number of features  SYMBOL  greatly exceeds the number of examples  SYMBOL , potentially resulting in overfitting

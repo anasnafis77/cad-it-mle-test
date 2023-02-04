@@ -1,0 +1,1 @@
+our generalization bounds for stationary   mixing sequences cover a more general non independent and identically distributed   scenario and use the standard mcdiarmid s inequality  however  unlike the   mixing case  the   mixing bound presented here is not a purely exponential bound and contains an additive term depending on the mixing coefficient

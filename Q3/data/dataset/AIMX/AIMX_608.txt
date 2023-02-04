@@ -1,0 +1,1 @@
+ We derive a QA algorithm for clustering and propose an annealing schedule, which is crucial in practice

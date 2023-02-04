@@ -1,0 +1,1 @@
+thus  a better clustering assignment can be constructed by picking up well clustered data points from many sub optimal clustering assignments

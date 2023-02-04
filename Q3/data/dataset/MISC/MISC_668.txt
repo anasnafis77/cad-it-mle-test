@@ -1,0 +1,1 @@
+ml chooses    penalized ml  pml  then chooses  penalty   where the penalty depends on the used approach  mdl  CITATION   bic  CITATION   aic  CITATION  

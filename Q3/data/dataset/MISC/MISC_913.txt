@@ -1,0 +1,1 @@
+Bundle methods for regularized risk minimization (BMRM) and the closely related SVMStruct are considered the best general purpose solvers to tackle this problem

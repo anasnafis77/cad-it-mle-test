@@ -1,0 +1,1 @@
+ Unlike PML, our new Loss Rank Principle (LoRP) works without a noise (stochastic sampling) model, and is directly applicable to any nonparametric regressor, like kNN

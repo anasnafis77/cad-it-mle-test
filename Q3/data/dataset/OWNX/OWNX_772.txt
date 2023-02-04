@@ -1,0 +1,1 @@
+the nonparametric nature of our sparse ibp requires that the hierarchical prior  also  be nonparametric

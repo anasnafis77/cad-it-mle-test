@@ -1,0 +1,1 @@
+consider a regression or classification problem in which we want to determine the functional relationship   from data    i e   we seek a function   such that   is close to the unknown   for all
